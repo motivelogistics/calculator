@@ -5805,8 +5805,8 @@
       "destination": {
         "AL": {
           "name": "Alabama",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "AK": {
           "name": "Alaska",
@@ -5815,13 +5815,13 @@
         },
         "AZ": {
           "name": "Arizona",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "AR": {
           "name": "Arkansas",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "AS": {
           "name": "American Samoa",
@@ -5830,38 +5830,38 @@
         },
         "CA": {
           "name": "California",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "CO": {
           "name": "Colorado",
           "available": false,
-          "rate": 2.5
+          "rate": 5.50
         },
         "CT": {
           "name": "Connecticut",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "DE": {
           "name": "Delaware",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "DC": {
           "name": "District of Columbia",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "FL": {
           "name": "Florida",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "GA": {
           "name": "Georgia",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "GU": {
           "name": "Guam",
@@ -5875,78 +5875,78 @@
         },
         "ID": {
           "name": "Idaho",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "IL": {
           "name": "Illinois",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "IN": {
           "name": "Indiana",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "IA": {
           "name": "Iowa",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "KS": {
           "name": "Kansas",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "KY": {
           "name": "Kentucky",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "LA": {
           "name": "Louisiana",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "ME": {
           "name": "Maine",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MD": {
           "name": "Maryland",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MA": {
           "name": "Massachusetts",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MI": {
           "name": "Michigan",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MN": {
           "name": "Minnesota",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MS": {
           "name": "Mississippi",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MO": {
           "name": "Missouri",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "MT": {
           "name": "Montana",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "NE": {
           "name": "Nebraska",
@@ -5955,38 +5955,38 @@
         },
         "NV": {
           "name": "Nevada",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "NH": {
           "name": "New Hampshire",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "NJ": {
           "name": "New Jersey",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "NM": {
           "name": "New Mexico",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "NY": {
           "name": "New York",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "NC": {
           "name": "North Carolina",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "ND": {
           "name": "North Dakota",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "MP": {
           "name": "Northern Mariana Islands",
@@ -5995,23 +5995,23 @@
         },
         "OH": {
           "name": "Ohio",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "OK": {
           "name": "Oklahoma",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "OR": {
           "name": "Oregon",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "PA": {
           "name": "Pennsylvania",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "PR": {
           "name": "Puerto Rico",
@@ -6020,28 +6020,28 @@
         },
         "RI": {
           "name": "Rhode Island",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "SC": {
           "name": "South Carolina",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "SD": {
           "name": "South Dakota",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "TN": {
           "name": "Tennessee",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "TX": {
           "name": "Texas",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "TT": {
           "name": "Trust Territories",
@@ -6050,18 +6050,18 @@
         },
         "UT": {
           "name": "Utah",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "VT": {
           "name": "Vermont",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "VA": {
           "name": "Virginia",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "VI": {
           "name": "Virgin Islands",
@@ -6070,23 +6070,23 @@
         },
         "WA": {
           "name": "Washington",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         },
         "WV": {
           "name": "West Virginia",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "WI": {
           "name": "Wisconsin",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 4.50
         },
         "WY": {
           "name": "Wyoming",
-          "available": false,
-          "rate": 2.5
+          "available": true,
+          "rate": 5.50
         }
       }
     },
