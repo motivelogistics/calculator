@@ -6,7 +6,7 @@
         "AL": {
           "name": "Alabama",
           "available": false,
-          "rate": 4.5
+          "rate": 10
         },
         "AK": {
           "name": "Alaska",
